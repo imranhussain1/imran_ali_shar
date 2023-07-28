@@ -17,6 +17,15 @@
         android:layout_marginRight="20dp"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/Nextup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:textSize="15sp"/>
+
 
 
 </LinearLayout>
